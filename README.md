@@ -41,10 +41,7 @@ The following libraries are used in this project:
 - Math
 - OS
 
-
-
 ## Project Structure
 - Error Handling: It gives an error message if interpreter cannot detect with use try and expect.
 - File Handling: It rings four amount random music in main menu. It finds music in music file. It only rings in main menu. It rings unlimited in main menu. It starts only when we open game first time.
 - Search Algorithm: User can search score history with search algorithm.
-
